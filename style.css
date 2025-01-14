@@ -1,0 +1,294 @@
+.nav-post {
+    width: 1600px;
+}
+
+.itemone {
+    font-family: "Roboto", serif;
+    color: #212121;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.itemone:hover{
+    color: #2196F3;
+}
+
+.itemtwo {
+    font-family: "Roboto", serif;
+    color: #212121;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.itemtwo:hover{
+    color: #2196F3;
+}
+
+.itemthree {
+    font-family: "Roboto", serif;
+    color: #212121;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.itemthree:hover{
+    color: #2196F3;
+}
+
+.itemfour {
+    font-family: "Roboto", serif;
+    color: #212121;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.itemfour:hover{
+    color: #2196F3;
+}
+
+.itemfive {
+    font-family: "Roboto", serif;
+    color: #757575;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.itemfive:hover{
+    color: #2196F3;
+}
+
+.post-one {
+    width: 1600px;
+    background-color: #2F303A;
+}
+
+.post-title {
+    font-family: "Roboto";
+    font-size: 44px;
+    font-weight: 900;
+    line-height: 60px;
+    letter-spacing: 0.06em;
+    text-align: center;
+    text-decoration-skip-ink: none;
+    color: #FFFFFF;
+}
+
+.post-btn {
+    font-family: "Roboto";
+    width: 216px;
+    height: 50px;
+    border-radius: 4px 4px 4px 4px;
+    background-color: #2196F3; 
+    color: #FFFFFF;
+}
+
+.post-sect {
+    width: 1300px;
+}
+
+.posto {
+    width: 270px
+}
+
+.post-subtitle {
+    font-family: "Roboto";
+font-size: 14px;
+font-weight: 700;
+line-height: 16.41px;
+letter-spacing: 0.03em;
+text-align: left;
+text-decoration-skip-ink: none;
+color: #212121;
+
+}
+
+.post-com {
+    font-family: "Roboto";
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.03em;
+text-align: left;
+text-decoration-skip-ink: none;
+color: #757575;
+
+}
+
+.post-titlee {
+    font-family: "Roboto";
+font-size: 36px;
+letter-spacing: 0.03em;
+text-align: center;
+text-decoration-skip-ink: none;
+color: #212121;
+}
+
+.bro {
+    width: 370px;
+}
+
+.sis {
+    width: 370px;
+}
+
+.xz {
+    width: 370px;
+}
+
+
+.post-end {
+    background-color: #F5F4FA;
+    width: 1600px;
+}
+
+.final {
+    width: 1600px;
+}
+
+.post-titleo {
+    font-family: "Roboto";
+font-size: 36px;
+font-weight: 700;;
+letter-spacing: 0.03em;
+text-align: center;
+text-decoration-skip-ink: none;
+color: #212121;
+}
+
+.info {
+    width: 1170px;
+}
+
+.mani {
+    width: 270px;
+}
+
+.namei {
+    font-family: "Roboto";
+font-size: 16px;
+font-weight: 500;
+line-height: 18.75px;
+letter-spacing: 0.03em;
+text-decoration-skip-ink: none;
+color: #212121;
+}
+
+.profi {
+    font-family: "Roboto";
+font-size: 16px;
+font-weight: 400;
+line-height: 18.75px;
+letter-spacing: 0.03em;
+text-decoration-skip-ink: none;
+color: #757575;
+}
+
+.woman {
+    width: 270px;
+}
+
+.nameo {
+    font-family: "Roboto";
+font-size: 16px;
+font-weight: 500;
+line-height: 18.75px;
+letter-spacing: 0.03em;
+text-decoration-skip-ink: none;
+color: #212121;
+}
+
+.prof {
+    font-family: "Roboto";
+font-size: 16px;
+font-weight: 400;
+line-height: 18.75px;
+letter-spacing: 0.03em;
+text-decoration-skip-ink: none;
+color: #757575;
+}
+
+.manm {
+    width: 270px;
+}
+
+.namem {
+    width: 130px;
+height: 19px;
+top: 1922px;
+left: 885px;
+color: #212121;
+}
+
+.profm {
+    font-family: "Roboto";
+font-size: 16px;
+font-weight: 400;
+line-height: 18.75px;
+letter-spacing: 0.03em;
+text-decoration-skip-ink: none;
+color: #757575;
+}
+
+.mane {
+    width: 270px;
+}
+
+.namee {
+    font-family: "Roboto";
+font-size: 16px;
+font-weight: 500;
+line-height: 18.75px;
+letter-spacing: 0.03em;
+text-decoration-skip-ink: none;
+color: #212121;
+}
+
+.profe {
+    color: #757575;
+font-size: 16px;
+font-weight: 400;
+line-height: 18.75px;
+letter-spacing: 0.03em;
+text-decoration-skip-ink: none;
+}
+
+
+.foot {
+    width: 1600px;
+background-color: #2F303A;
+}
+
+.address {
+    font-family: "Roboto";
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.03em;
+text-align: left;
+text-decoration-skip-ink: none;
+color: #FFFFFF;
+}
+
+.email {
+    font-family: "Roboto";
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.03em;
+text-align: left;
+text-decoration-skip-ink: none;
+text-decoration: none;
+color: #FFFFFF99;
+}
+
+.tel {
+    font-family: "Roboto";
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.03em;
+text-align: left;
+text-decoration: none;
+text-decoration-skip-ink: none;
+color: #FFFFFF99;
+}
